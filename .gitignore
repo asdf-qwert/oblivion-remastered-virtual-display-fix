@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.original
+*.zip
+test-work/
+__pycache__/
+*.pyc
+.venv/
